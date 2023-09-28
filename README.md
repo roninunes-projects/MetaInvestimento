@@ -36,7 +36,7 @@ Dependências:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/roninunes-projects/MetaInvestimento.git
 
    # Navegue até o diretório do projeto:
    cd seu-repositorio
@@ -44,7 +44,7 @@ Dependências:
    python main_invest.py
     # Siga as instruções no terminal para inserir a moeda base, banca inicial e porcentagem de lucro por dia.
     # Exemplo de Saída:
-    [...]
+   
     RESULTADO PROJETADO PARA 30 DIAS em EUR
     ----------------------------------------
     €: 17.449,40
